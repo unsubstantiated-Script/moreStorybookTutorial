@@ -1,0 +1,24 @@
+/* Main style */
+.input {
+	border: 3px black solid;
+	display: block;
+	height: 25px;
+}
+
+/* Variations */
+
+.small {
+	width: 100px;
+}
+
+.medium {
+	width: 200px;
+}
+
+.large {
+	width: 300px;
+}
+
+.xlarge {
+	width: 400px;
+}
